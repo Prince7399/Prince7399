@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Prince7399
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Web Development
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me on Email - princetalaviya2000@gmail.com
 
