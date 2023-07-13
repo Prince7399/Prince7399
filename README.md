@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Prince7399
 - 👀 I’m interested in Web Development
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’ve a greate knowledge of HTML, css , Js, React Js, Bootstrap
 - 📫 How to reach me on Email - princetalaviya2000@gmail.com
 
 <!---
